@@ -20,5 +20,5 @@ my personal valorant settings
 `(Purple) - Tritanopia`
 
 - resolution: 
-`Native - 1920x1080 16:9 - (Native)`
+`Native - 1920x1080 16:9`
 , `Nvidia Reflex Low Latency - On + Boost`
